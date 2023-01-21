@@ -1,5 +1,7 @@
 # EOL
 Abandoned, use `sudo ifconfig wlan0 hw ether <enter mac>` (which was deprecated in favour for iptool2 but idc)<br>
+LMAO I DIDN'T UPLOAD THE BATCH FILE BACK THEN.
+<br>Unfortunatetly I deleted every windows related coding stuff from my harddrive (did the s/batch/bash/g thingy) so yeah fuck it
 
 # Mac-Spoofer
 Allows to change your MAC Adress on Windows 10 Computers even if your NIC doesn't support MAC changing
