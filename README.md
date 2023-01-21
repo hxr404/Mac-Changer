@@ -14,4 +14,5 @@ The Virtual NIC is ready! Now just start the file *mac.bat* and enter your new M
 This requires some Hyper-V to work, it installs the dependencies automatically. The Program itself is just some kind of Setup Wizard, ist fully portable. It just installs and configures the virtual NIC *hxr404_mac*. The concept is similar to Microsoft Loopback Adapter, but better. Also it's the first tool with that functionallity.
 
 **License**
-Like any other repos, please don't redistribute this, instead share the Link, as here are always the newset updates.
+<del>Like any other repos, please don't redistribute this, instead share the Link, as here are always the newset updates.</del>
+Apache 2.0
